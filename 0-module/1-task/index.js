@@ -4,4 +4,4 @@ function sum(m, n) {
 }
 
 //Вывод в консоль решения для проверки
-console.log(sum(800, 500));
+console.log(sum(5, 5)); // Выведет 10
