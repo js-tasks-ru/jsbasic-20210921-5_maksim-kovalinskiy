@@ -14,6 +14,7 @@ function factorial(n) {
 
 
 
+
 // Подскажите пожалуйста, почему данная ниже функция не прошла тест?
 /*
 function factorial(n){
